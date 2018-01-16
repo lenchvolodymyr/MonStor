@@ -19,6 +19,7 @@
 	"TOOLBAR___SHOW_FOREIGN_MASTER": "Toggle foreign master",
 	"TOOLBAR___SHOW_MODEL_VIEW": "Toggle model views",
 	"TOOLBAR___DISTRIBUTE_ORTHOGONALLY": "Distribute document sets orthogonally",
+	"TOOLBAR___ADD_CHILD_COLLECTION": "Add Child Document Set",
 	"OBJECT___BROWSER_BUCKET": "Keyspaces",
 	"OBJECT___BROWSER_NOT_IN_BUCKET": "Undefined Keyspace",
 	"OBJECT___BROWSER_COLLECTION": "Document Sets",
